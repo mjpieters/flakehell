@@ -151,5 +151,5 @@ dev = [
     "wemake-python-styleguide",
 
     "pytest",
-    "isort[pyproject]",
+    "isort[pyproject] < 5",
 ]
